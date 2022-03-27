@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\HOMETASKS\Student_operator_overloading\Student_operator_overloading\bin\Debug\netcoreapp3.1\Student_operator_overloading.exe
+C:\Users\User\Desktop\HOMETASKS\Student_operator_overloading\Student_operator_overloading\bin\Debug\netcoreapp3.1\Student_operator_overloading.deps.json
+C:\Users\User\Desktop\HOMETASKS\Student_operator_overloading\Student_operator_overloading\bin\Debug\netcoreapp3.1\Student_operator_overloading.runtimeconfig.json
+C:\Users\User\Desktop\HOMETASKS\Student_operator_overloading\Student_operator_overloading\bin\Debug\netcoreapp3.1\Student_operator_overloading.runtimeconfig.dev.json
+C:\Users\User\Desktop\HOMETASKS\Student_operator_overloading\Student_operator_overloading\bin\Debug\netcoreapp3.1\Student_operator_overloading.dll
+C:\Users\User\Desktop\HOMETASKS\Student_operator_overloading\Student_operator_overloading\bin\Debug\netcoreapp3.1\Student_operator_overloading.pdb
+C:\Users\User\Desktop\HOMETASKS\Student_operator_overloading\Student_operator_overloading\obj\Debug\netcoreapp3.1\Student_operator_overloading.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\HOMETASKS\Student_operator_overloading\Student_operator_overloading\obj\Debug\netcoreapp3.1\Student_operator_overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\HOMETASKS\Student_operator_overloading\Student_operator_overloading\obj\Debug\netcoreapp3.1\Student_operator_overloading.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\HOMETASKS\Student_operator_overloading\Student_operator_overloading\obj\Debug\netcoreapp3.1\Student_operator_overloading.AssemblyInfo.cs
+C:\Users\User\Desktop\HOMETASKS\Student_operator_overloading\Student_operator_overloading\obj\Debug\netcoreapp3.1\Student_operator_overloading.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\HOMETASKS\Student_operator_overloading\Student_operator_overloading\obj\Debug\netcoreapp3.1\Student_operator_overloading.dll
+C:\Users\User\Desktop\HOMETASKS\Student_operator_overloading\Student_operator_overloading\obj\Debug\netcoreapp3.1\Student_operator_overloading.pdb
+C:\Users\User\Desktop\HOMETASKS\Student_operator_overloading\Student_operator_overloading\obj\Debug\netcoreapp3.1\Student_operator_overloading.genruntimeconfig.cache
